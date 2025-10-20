@@ -1,5 +1,4 @@
 # Webflow Firebase Template
-
 Template for hosting Webflow sites on Firebase with automated sync scripts.
 
 ## Setup
